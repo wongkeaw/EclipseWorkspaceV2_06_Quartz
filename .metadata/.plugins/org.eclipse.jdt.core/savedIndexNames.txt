@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\ongOngongPC\EclipseWorkspaceV2_06_Quartz\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,7 @@
+127.0.0.1 - - [30/Apr/2018:11:23:24 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:23:24 +0700] "GET /JavaServerFaces/ HTTP/1.1" 200 1972
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:23:24 +0700] "GET /JavaServerFaces/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:23:24 +0700] "GET /JavaServerFaces/faces/javax.faces.resource/table-style.css;jsessionid=94DCCD7A9720D406E9853BFF7FFA336E?ln=css HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:25:29 +0700] "GET /JavaServerFaces/ HTTP/1.1" 200 1883
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:25:29 +0700] "GET /JavaServerFaces/faces/javax.faces.resource/table-style.css?ln=css HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:11:25:29 +0700] "GET /JavaServerFaces/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
